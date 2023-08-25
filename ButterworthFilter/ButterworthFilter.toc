@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Aim of the research work}{1}{}%
+\contentsline {section}{\numberline {2}Problem statement}{1}{}%
+\contentsline {section}{\numberline {3}Input parameters}{1}{}%
+\contentsline {section}{\numberline {4}Spectrum of noisy audio signal}{1}{}%
+\contentsline {section}{\numberline {5}Design of 3rd order Butterworth filter}{1}{}%
+\contentsline {subsection}{\numberline {5.1}Coefficients of 3rd order Butterworth filter}{2}{}%
+\contentsline {subsection}{\numberline {5.2}Plot of Impulse response}{2}{}%
+\contentsline {subsection}{\numberline {5.3}Response of 3rd order Butterworth filter}{2}{}%
+\contentsline {section}{\numberline {6}Spectrum of output signal}{2}{}%
+\contentsline {section}{\numberline {7}Code in Python language}{2}{}%
+\contentsline {section}{\numberline {8}Conclusion}{3}{}%
+\contentsline {section}{\numberline {9}References}{3}{}%
